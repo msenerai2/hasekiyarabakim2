@@ -1,0 +1,6 @@
+{
+  "name": "Klinik Yara Bakım ve Hasta Takip Sistemi",
+  "description": "Diyabetik ayak, kronik yara etyolojileri, debridman, antibiyotik takibi ve gelişmiş klinik istatistik raporlama sistemi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
